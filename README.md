@@ -6,13 +6,13 @@ A simple full-stack web application built with **Node.js**, **Express.js**, and 
 
 ---
 
-## 📋 Project Description
+## 📋 Project Description:
 
 This project was created to demonstrate basic backend logic and full-stack integration. The application accepts user input from the frontend, sends it to a backend API using `POST /reverse`, processes the input by reversing the string, and displays the result back on the frontend.
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
 
 - API endpoint (`POST /reverse`) to reverse a string  
 - Input validation (checks if input is a string)  
@@ -22,7 +22,7 @@ This project was created to demonstrate basic backend logic and full-stack integ
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Structure:
 
 ```
 ## 📁 Project Structure
